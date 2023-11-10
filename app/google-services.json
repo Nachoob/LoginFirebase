@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694202090602",
+    "project_id": "loginfirebase-f40a1",
+    "storage_bucket": "loginfirebase-f40a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694202090602:android:6d3ab8805944d9dbecb613",
+        "android_client_info": {
+          "package_name": "com.example.loginfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmqUm_ELvhrvJzQlMwW1JpbHn8HRiyV9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
